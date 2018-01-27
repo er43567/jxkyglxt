@@ -26,7 +26,7 @@
 <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 <body>
 	<s:action name="page_nav" namespace="/Page" executeResult="true" />
-	This is my JSP page.
+	This is my JSP page.lm github
 	<br>
 	<input type="button" class="form-control" onclick="getImg()" value="查看">
 	<div id="img"
